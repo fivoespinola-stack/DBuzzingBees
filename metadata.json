@@ -1,0 +1,6 @@
+{
+  "name": "LinisPro - Pro Cleaning Services & Operations",
+  "description": "Comprehensive cleaning services app with booking system, appointment tracking, real-time push alerts, payments (GCash/Maya/Card), cleaner reviews, staff management, analytics, offline sync, and biometric privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
